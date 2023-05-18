@@ -28,6 +28,9 @@ The Notes Application is a web-based application that allows users to create, ma
 3. Configure Firebase Authentication and Firestore by providing your Firebase project credentials.
 4. Start the server and access the application through the specified URL.
 
+## Screen Shots
+
+<img src="https://firebasestorage.googleapis.com/v0/b/notes-5bb98.appspot.com/o/Screenshot%202023-05-18%20160705.png?alt=media&token=b47b1e80-3fda-4efe-b5bb-13183a7dd7df" alt="ss2" />
 <img src="https://firebasestorage.googleapis.com/v0/b/notes-5bb98.appspot.com/o/Screenshot%202023-05-18%20160255.png?alt=media&token=f8927f66-8643-4911-9764-bca72b34188d" alt="ss1" />
 
 ## Contributing
