@@ -1,6 +1,7 @@
 import { initializeApp } from 'firebase/app';
+import { getAuth } from 'firebase/auth';
 import { getFirestore } from 'firebase/firestore';
-console.log(import.meta.env.VITE_FIREBASE_CONFIG2)
+
 
 // Firebase configuration
 const firebaseConfig = {
@@ -19,4 +20,6 @@ const app = initializeApp(firebaseConfig);
 // Get Firestore instance
 const db = getFirestore(app);
 
-export { db };
+const auth = getAuth(app)
+
+export { db , auth };
